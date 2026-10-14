@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Jacob Dorow 👋
 
-<!--
-**dorowj/dorowj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GTM and automation architect with 8+ years building the systems revenue teams run on. I lead architecture, modernization, and governance across 30+ business apps for Marketing, Sales, Customer Success, Finance, and IT.
 
-Here are some ideas to get you started:
+### What I've delivered
+- Scaled GTM infrastructure from $100M to $200M+ ARR
+- $500K+ in annual technology savings
+- An AI-powered Workato orchestration that cut campaign launches from two weeks to under 30 minutes
+- 30%+ less technical debt through governance and release discipline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stack
+- **Platforms:** Salesforce, HubSpot, Snowflake, 6sense, Salesloft, Outreach, Gong
+- **Automation:** Workato, Zapier, APIs, webhooks, agentic workflows
+- **Delivery:** GitHub, CI/CD, Jira, Agile, release governance
+- **AI:** Claude Code, AI-assisted enrichment, responsible AI governance
+
+**Certifications:** Workato Enterprise Automation and Automation Pro I and II, 6sense Administrator, Anthropic Claude Code
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jake-dorow/) • 📍 Pike Road, AL
