@@ -1,6 +1,6 @@
 ## Hey, I'm Jake Dorow 👋
 
-I'm a MarTech and GTM systems architect working in RevOps. We build the systems revenue teams run on, connecting HubSpot, Salesforce, Workato, Snowflake, and 6sense so marketing and sales data actually flows.
+I'm a MarTech and GTM systems architect working in Enterprise Business Systems.. We build the systems GTM teams run on, connecting HubSpot, Salesforce, Workato, Snowflake, and 6sense so marketing and sales data actually flows.
 
 ### What I focus on
 - Agentic frameworks and AI automation built in Workato
